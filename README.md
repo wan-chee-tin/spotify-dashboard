@@ -11,7 +11,7 @@ Before using the dashboard, ensure that you have the following tools and softwar
 To get this project up and running on your local machine, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Raxeira/spotify-dashboard.git
+   git clone https://github.com/wan-chee-tin/spotify-dashboard.git
    cd spotify-dashboard
 2. The `Spotify History.csv` dataset is already included in the `Data/` folder for convenience, so you can download and use it straightaway. If you encounter any issues with the included file, you can manually download and replace the dataset from [Spotify Streaming History](https://www.kaggle.com/datasets/sgoutami/spotify-streaming-history/data).
 3. Launch the Spotify Dashboard (.pbix) file and explore further.
